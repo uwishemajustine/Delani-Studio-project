@@ -1,0 +1,16 @@
+body{
+    background-image: url("../image/h_img.jpg");
+    color: white;
+    text-align: center; 
+    vertical-align: middle;
+}
+#center{
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    right: 25%;
+}
+#icon{
+    margin-bottom: 25%;
+    margin-top: 35%;
+}
