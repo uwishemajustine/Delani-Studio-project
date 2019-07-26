@@ -1,16 +1,20 @@
-body{
-    background-image: url("../image/h_img.jpg");
-    color: white;
-    text-align: center; 
-    vertical-align: middle;
-}
-#center{
-    margin: 0;
-    position: absolute;
-    top: 25%;
-    right: 25%;
+.container-box {
+        background: url("../image/h_img.jpg") fixed center no-repeat;
+        background-size: cover;
+    /* background-image: 
+    background-size: cover;
+    background-position: center; */
+        color: white;
+        text-align: center; 
 }
 #icon{
-    margin-bottom: 25%;
-    margin-top: 35%;
+    margin-right: 5%;
+    margin-top: 10%;
+    
+}
+#icon2{
+    margin-top: 10%;
+    margin-right: 5%;
+  
+    
 }
