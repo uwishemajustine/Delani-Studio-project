@@ -2,13 +2,11 @@
     background-image: url("../image/h_img.jpg");
     color: white; 
     text-align: center;
-    padding-right: 9px;
+    right: 150px;
 }     
-
 #About-us{
     text-align: center;
-    margin: 30px;
-    padding-top: 39%;      
+    margin: 0 auto;   
     line-height: 1cm;
 }
 #Services{
