@@ -20,5 +20,13 @@
 h2{
     text-align: center;
 }
-
+.Design{
+    display: none;
+}
+.Project-management{
+    display: none;
+}
+.Development{
+    display: none;
+}
 
