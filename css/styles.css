@@ -1,0 +1,27 @@
+#first{
+        background-image: url("../image/h_img.jpg");
+        background-size: cover;
+        color: white;
+        text-align: center;
+        margin-top: 20%;
+}
+#icon{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    
+}
+#icon2{
+    margin-top: 20%;
+    margin-bottom: 20%;   
+}
+#About-us{
+    text-align: center;
+    margin: 30px;
+}
+#Services{
+    background-image: url("../image/s_image.jpg");
+    text-align: center;
+    color: white;
+
+}
+
