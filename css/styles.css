@@ -1,27 +1,25 @@
 #first{
-        background-image: url("../image/h_img.jpg");
-        background-size: cover;
-        color: white;
-        text-align: center;
-        margin-top: 20%;
-}
-#icon{
-    margin-top: 20%;
-    margin-bottom: 20%;
-    
-}
-#icon2{
-    margin-top: 20%;
-    margin-bottom: 20%;   
-}
+    background-image: url("../image/h_img.jpg");
+    color: white; 
+    text-align: center;
+    padding-right: 9px;
+}     
+
 #About-us{
     text-align: center;
     margin: 30px;
+    padding-top: 39%;      
+    line-height: 1cm;
 }
 #Services{
     background-image: url("../image/s_image.jpg");
     text-align: center;
     color: white;
-
+    padding-top: 10%;
+    padding-bottom: 4%;
+    line-height: 1cm;
+}
+h2{
+    text-align: center;
 }
 
