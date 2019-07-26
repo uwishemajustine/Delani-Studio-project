@@ -33,6 +33,22 @@ h2{
     display: none;
     text-align: center
 }
-
+.port{
+    text-align: center;
+    margin-top:20px; 
+    margin-bottom:20px;
+ }
+ 
+ .contact{
+    background-image: url("../image/c_image.jpg");
+    text-align: center;
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 4%;
+    line-height: 1cm;
+ }
+ .social-icon{
+     text-align: center;
+ }
 
  
