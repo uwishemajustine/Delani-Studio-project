@@ -13,7 +13,7 @@ Setup Installation Required
 * JAVASCRIPT
 * JQUERY
 ## The link to my project
-clone
+ clone to my project https://uwishemajustine.github.io/Delani-Studio-project/
 ## Contact information
 email: alsenjastine90@gmail.com
 ## LICENCE
