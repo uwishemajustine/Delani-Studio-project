@@ -63,7 +63,7 @@ h2{
     border-radius: 5px;
   }
   #name {
-    width: 35%;
+    width: 25%;
     background-color: transparent;
     color: solid white!important;
   }
@@ -73,7 +73,7 @@ h2{
     background-color: transparent;
   }
   #email {
-    width: 35%;
+    width: 25%;
     background-color: transparent;
     color: solid white;
   }
