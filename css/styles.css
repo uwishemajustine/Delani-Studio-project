@@ -38,37 +38,39 @@ h2{
     margin-top:20px; 
     margin-bottom:20px;
  }
- 
- .contact{
+ #contacts{
     background-image: url("../image/c_image.jpg");
+    background-size: 100%,100%;
+    background-color: transparent;
+    background-repeat: no-repeat;
     text-align: center;
+    background-position: center;
     color: white;
-    
- }
- .row-icons{
-     text-align:center; 
- }
- #id_number {
-    position: relative;
-    color: #fff;
-    width: 60%;
-    margin-left: 20%;
-}
-input[rows] {
-    height: auto;
-}
-input{
-    max-width: 100%;
-}
-.small-6 {
-    width: 100%;
-}
-.column, .columns {
-    width: 100%;
-    float: left;
-    padding-left: .9375rem;
-    padding-right: .9375rem;
-}
-.small-12 {
-    width: 100%;
-}
+
+  }
+  input {
+    border-radius: 5px;
+  }
+  #name {
+    width: 35%;
+    background-color: transparent;
+    color: solid white;
+  }
+  textarea {
+    border-radius: 5px;
+    margin-top: 1%;
+    background-color: transparent;
+  }
+  #email {
+    width: 35%;
+    background-color: transparent;
+    color: solid white;
+  }
+  ::placeholder{
+      color: white;
+  }
+  #social-icon{
+     text-align: center; 
+  }
+ 
+ 
