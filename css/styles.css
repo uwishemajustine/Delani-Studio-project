@@ -43,12 +43,32 @@ h2{
     background-image: url("../image/c_image.jpg");
     text-align: center;
     color: white;
-    padding-top: 10%;
-    padding-bottom: 4%;
-    line-height: 1cm;
+    
  }
- .social-icon{
-     text-align: center;
+ .row-icons{
+     text-align:center; 
  }
-
- 
+ #id_number {
+    position: relative;
+    color: #fff;
+    width: 60%;
+    margin-left: 20%;
+}
+input[rows] {
+    height: auto;
+}
+input{
+    max-width: 100%;
+}
+.small-6 {
+    width: 100%;
+}
+.column, .columns {
+    width: 100%;
+    float: left;
+    padding-left: .9375rem;
+    padding-right: .9375rem;
+}
+.small-12 {
+    width: 100%;
+}
