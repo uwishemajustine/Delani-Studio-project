@@ -44,9 +44,8 @@ h2{
     background-color: transparent;
     background-repeat: no-repeat;
     text-align: center;
-    background-position: center;
+    /* background-position: center; */
     color: white;
-
   }
   input {
     border-radius: 5px;

@@ -39,3 +39,11 @@ $(document).ready(function(){
     $(".Development").hide();
   });
 });
+$(document).ready(function() {
+  $(".button").click(function() {
+    $("#name").val()
+    $("#email").val()
+    $("#message").val()
+    alert("Your message have been received")
+  })
+});
